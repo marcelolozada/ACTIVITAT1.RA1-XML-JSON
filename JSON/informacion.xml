@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trabajo>
+    <basic_info>
+        <nombre>Peter</nombre>
+        <apellido>Jones</apellido>
+        <edad>19</edad>
+        <altura>1.78</altura>
+        <trabajo>informatico</trabajo>
+        <risa_fav>&lt;3</risa_fav>
+        <mascotas>gato negro, chiwawa</mascotas>
+        <direccion>
+            <calle numero="121" cp="08012">Pau Claris</calle>
+        </direccion>
+    </basic_info>
+    <redes_sociales>
+        <instagram>
+            <usuario correo="pjones22@gmail.com">pjones22</usuario>
+        </instagram>
+        <twitter>true</twitter>
+    </redes_sociales>
+    <amigos>
+        <amigo>
+            <nombre>Jhon</nombre>
+            <apellido>Doe</apellido>
+            <edad>35</edad>
+        </amigo>
+        <amigo>
+            <nombre>Anna</nombre>
+            <apellido>Smith</apellido>
+            <edad>null</edad>
+        </amigo>
+    </amigos>
+</trabajo>

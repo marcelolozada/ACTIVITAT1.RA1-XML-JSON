@@ -1,0 +1,72 @@
+{
+    "pokemons": [
+      {
+        "id": 1,
+        "nom": "Pikachu",
+        "tipus": ["Eléctrico"],
+        "pes": 6.0,
+        "altura": 0.4,
+        "estadisticas": {
+          "velocidad": 90,
+          "fortaleza": 55,
+          "precision": 100,
+          "resistencia": 40
+        },
+        "movimientos": [
+          {
+            "nombre": "Impactrueno",
+            "tipo": "Eléctrico",
+            "potencia": 40,
+            "precision": 100,
+            "descripcion": "Un ataque eléctrico que puede paralizar al oponente."
+          },
+          {
+            "nombre": "Rayo",
+            "tipo": "Eléctrico",
+            "potencia": 90,
+            "precision": 100,
+            "descripcion": "Un poderoso ataque eléctrico que puede causar daño significativo."
+          }
+        ],
+        "imagen": "https://img.pokemondb.net/artwork/large/pikachu.jpg",
+        "evolucion": {
+          "evoluciona_a": "Raichu",
+          "nivel": 20
+        }
+      },
+      {
+        "id": 2,
+        "nom": "Bulbasaur",
+        "tipus": ["Planta", "Veneno"],
+        "pes": 6.9,
+        "altura": 0.7,
+        "estadisticas": {
+          "velocidad": 45,
+          "fortaleza": 49,
+          "precision": 100,
+          "resistencia": 49
+        },
+        "movimientos": [
+          {
+            "nombre": "Látigo Cepa",
+            "tipo": "Planta",
+            "potencia": 40,
+            "precision": 100,
+            "descripcion": "Un ataque que utiliza lianas para golpear al oponente."
+          },
+          {
+            "nombre": "Bomba Germen",
+            "tipo": "Planta",
+            "potencia": 80,
+            "precision": 100,
+            "descripcion": "Un ataque que lanza semillas explosivas al oponente."
+          }
+        ],
+        "imagen": "https://img.pokemondb.net/artwork/large/bulbasaur.jpg",
+        "evolucion": {
+          "evoluciona_a": "Ivysaur",
+          "nivel": 16
+        }
+      }
+    ]
+}
