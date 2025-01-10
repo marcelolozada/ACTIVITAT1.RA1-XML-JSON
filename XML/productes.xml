@@ -3,7 +3,7 @@
 <librerias>
     <estanterias>
         <libro1>
-            <img src="wigetta.jpg"/>
+            <img src="img/wigetta.jpg"/>
             <titulo lang="es">Libro Wigeta</titulo>
             <autor>Vegetta777 y Willirex</autor>
             <descripcion>Una historia ilustrada e interactiva que se inspira en el mundo de los videojuegos y en el universo de los célebres Willyrex y Vegetta777</descripcion>
@@ -17,7 +17,7 @@
             </disponibilidad>
         </libro1>
         <libro2>
-            <img src="invisible.jpg"/>
+            <img src="img/invisible.jpg"/>
             <titulo2 lang="cat">Invisible</titulo2>
             <autor2>Eloy Moreno</autor2>
             <descripcion2>Emotiva, conmovedora, diferente... Invisible narra, a través de los ojos de un niño, una historia que podría ser la de cualquiera de nosotros.</descripcion2>
